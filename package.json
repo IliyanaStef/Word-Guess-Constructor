@@ -1,0 +1,25 @@
+{
+  "name": "Word-Guess-Constructor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "inquirer": "^6.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IliyanaStef/Word-Guess-Constructor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IliyanaStef/Word-Guess-Constructor/issues"
+  },
+  "homepage": "https://github.com/IliyanaStef/Word-Guess-Constructor#readme"
+}
